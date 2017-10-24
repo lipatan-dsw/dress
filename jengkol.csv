@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Pakaian Wanita / Dress / Tunik - PS 514 Murah,pakaian-wanita-dress-tunik-ps-514,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Dress / Kemeja Casual Wanita - DC 026 Murah,dress-kemeja-casual-wanita-dc-026,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 514 Murah,pakaian-wanita-dress-tunik-ps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 514 Murah,pakaian-wanita-dress-tunik-ps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - PS 514 dengan bahan COTTON ini dijamin awet.<br/>Kode : PS 514<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - DC 026 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : DC 026<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Pakaian Wanita / Dress / Tunik - PS 514 Murah,pakaian-wanita-dress-tunik-ps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/582-ps-514.jpg,Pakaian Wanita / Dress / Tunik - PS 514,Rp 90.400,PS 514,Baru
-Jual Pakaian Wanita / Dress / Tunik - PS 515 Murah,pakaian-wanita-dress-tunik-ps-515,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/509-dc-026.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - DC 026,Rp 132.400,Rp 154.900,Rp 22.500,DC 026,Baru
+Jual Dress / Kemeja Casual Wanita - DC 030 Murah,dress-kemeja-casual-wanita-dc-030,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 515 Murah,pakaian-wanita-dress-tunik-ps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 515 Murah,pakaian-wanita-dress-tunik-ps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - PS 515 dengan bahan COTTON ini dijamin awet.<br/>Kode : PS 515<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - DC 030 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : DC 030<br/>Warna : MARUN<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Pakaian Wanita / Dress / Tunik - PS 515 Murah,pakaian-wanita-dress-tunik-ps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/583-ps-515.jpg,Pakaian Wanita / Dress / Tunik - PS 515,Rp 90.400,PS 515,Baru
-Jual Pakaian Wanita / Dress / Tunik - MT 045 Murah,pakaian-wanita-dress-tunik-mt-045,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna MARUN",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/511-dc-030.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - DC 030,Rp 151.400,Rp 177.900,Rp 26.500,DC 030,Baru
+Jual Dress / Kemeja Casual Wanita - DC 010 Murah,dress-kemeja-casual-wanita-dc-010,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 045 Murah,pakaian-wanita-dress-tunik-mt
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 045 Murah,pakaian-wanita-dress-tunik-mt
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - MT 045 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : MT 045<br/>Warna : UNGU<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - DC 010 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : DC 010<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Pakaian Wanita / Dress / Tunik - MT 045 Murah,pakaian-wanita-dress-tunik-mt
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan SPANDEX, Ukuran S - XL, Warna UNGU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/584-mt-045.jpg,Pakaian Wanita / Dress / Tunik - MT 045,Rp 117.400,MT 045,Baru
-Jual Pakaian Wanita / Dress / Tunik - PS 516 Murah,pakaian-wanita-dress-tunik-ps-516,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/519-dc-010.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - DC 010,Rp 106.400,Rp 124.900,Rp 18.500,DC 010,Baru
+Jual Dress / Kemeja Casual Wanita - RJ 005 Murah,dress-kemeja-casual-wanita-rj-005,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 516 Murah,pakaian-wanita-dress-tunik-ps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 516 Murah,pakaian-wanita-dress-tunik-ps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - PS 516 dengan bahan COTTON ini dijamin awet.<br/>Kode : PS 516<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - RJ 005 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan DENIM.<br/>Kode : RJ 005<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +254,8 @@ Jual Pakaian Wanita / Dress / Tunik - PS 516 Murah,pakaian-wanita-dress-tunik-ps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/585-ps-516.jpg,Pakaian Wanita / Dress / Tunik - PS 516,Rp 94.900,PS 516,Baru
-Jual Pakaian Wanita / Dress / Tunik - MT 046 Murah,pakaian-wanita-dress-tunik-mt-046,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/520-rj-005.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - RJ 005,Rp 129.400,Rp 151.900,Rp 22.500,RJ 005,Baru
+Jual Dress / Kemeja Casual Wanita - DC 029 Murah,dress-kemeja-casual-wanita-dc-029,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +280,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 046 Murah,pakaian-wanita-dress-tunik-mt
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,7 +303,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 046 Murah,pakaian-wanita-dress-tunik-mt
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - MT 046 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : MT 046<br/>Warna : BIRU<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - DC 029 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan DENIM.<br/>Kode : DC 029<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,8 +318,8 @@ Jual Pakaian Wanita / Dress / Tunik - MT 046 Murah,pakaian-wanita-dress-tunik-mt
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan SPANDEX, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/586-mt-046.jpg,Pakaian Wanita / Dress / Tunik - MT 046,Rp 117.400,MT 046,Baru
-Jual Pakaian Wanita / Dress / Tunik - MT 050 Murah,pakaian-wanita-dress-tunik-mt-050,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/521-dc-029.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - DC 029,Rp 120.400,Rp 140.900,Rp 20.500,DC 029,Baru
+Jual Dress / Kemeja Casual Wanita - DC 032 Murah,dress-kemeja-casual-wanita-dc-032,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +344,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 050 Murah,pakaian-wanita-dress-tunik-mt
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,7 +367,7 @@ Jual Pakaian Wanita / Dress / Tunik - MT 050 Murah,pakaian-wanita-dress-tunik-mt
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - MT 050 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : MT 050<br/>Warna : PINK<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Kemeja Casual Wanita - DC 032 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : DC 032<br/>Warna : MERAH KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -376,8 +382,8 @@ Jual Pakaian Wanita / Dress / Tunik - MT 050 Murah,pakaian-wanita-dress-tunik-mt
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan SPANDEX, Ukuran S - XL, Warna PINK",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/587-mt-050.jpg,Pakaian Wanita / Dress / Tunik - MT 050,Rp 120.400,MT 050,Baru
-Jual Pakaian Wanita / Dress / Tunik - PS 511 Murah,pakaian-wanita-dress-tunik-ps-511,"
+     </div><!--/category-tab-->",2017-10-16,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/522-dc-032.jpg,/,/,/,/,/,Dress / Kemeja Casual Wanita - DC 032,Rp 124.900,Rp 146.900,Rp 22.000,DC 032,Baru
+Jual Dress / Atasan Kasual Wanita - RBV 048 Murah,dress-atasan-kasual-wanita-rbv-048,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -402,6 +408,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 511 Murah,pakaian-wanita-dress-tunik-ps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -424,7 +431,7 @@ Jual Pakaian Wanita / Dress / Tunik - PS 511 Murah,pakaian-wanita-dress-tunik-ps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - PS 511 dengan bahan COTTON SLUB ini dijamin awet.<br/>Kode : PS 511<br/>Warna : PUTIH<br/>Bahan : COTTON SLUB<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RBV 048 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : RBV 048<br/>Warna : MOKA<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -439,8 +446,8 @@ Jual Pakaian Wanita / Dress / Tunik - PS 511 Murah,pakaian-wanita-dress-tunik-ps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON SLUB, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/588-ps-511.jpg,Pakaian Wanita / Dress / Tunik - PS 511,Rp 114.400,PS 511,Baru
-Jual Pakaian Wanita / Dress / Tunik - RG 024 Murah,pakaian-wanita-dress-tunik-rg-024,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna MOKA",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/1-rbv-048.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RBV 048,Rp 102.900,Rp 120.900,Rp 18.000,RBV 048,Baru
+Jual Dress / Atasan Kasual Wanita - RKK 107 Murah,dress-atasan-kasual-wanita-rkk-107,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -465,6 +472,7 @@ Jual Pakaian Wanita / Dress / Tunik - RG 024 Murah,pakaian-wanita-dress-tunik-rg
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -487,7 +495,7 @@ Jual Pakaian Wanita / Dress / Tunik - RG 024 Murah,pakaian-wanita-dress-tunik-rg
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - RG 024 dengan bahan COTTON ini dijamin awet.<br/>Kode : RG 024<br/>Warna : PUTIH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RKK 107 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : RKK 107<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -502,8 +510,8 @@ Jual Pakaian Wanita / Dress / Tunik - RG 024 Murah,pakaian-wanita-dress-tunik-rg
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/589-rg-024.jpg,Pakaian Wanita / Dress / Tunik - RG 024,Rp 151.400,RG 024,Baru
-Jual Pakaian Wanita / Dress / Tunik - DG 018 Murah,pakaian-wanita-dress-tunik-dg-018,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/2-rkk-107.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RKK 107,Rp 99.400,Rp 116.900,Rp 17.500,RKK 107,Baru
+Jual Dress / Atasan Kasual Wanita - RNG 033 Murah,dress-atasan-kasual-wanita-rng-033,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -528,6 +536,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 018 Murah,pakaian-wanita-dress-tunik-dg
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -550,7 +559,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 018 Murah,pakaian-wanita-dress-tunik-dg
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DG 018 dengan bahan COTTON ini dijamin awet.<br/>Kode : DG 018<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RNG 033 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan SATEN.<br/>Kode : RNG 033<br/>Warna : COKLAT<br/>Bahan : SATEN<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -565,8 +574,8 @@ Jual Pakaian Wanita / Dress / Tunik - DG 018 Murah,pakaian-wanita-dress-tunik-dg
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/590-dg-018.jpg,Pakaian Wanita / Dress / Tunik - DG 018,Rp 124.900,DG 018,Baru
-Jual Pakaian Wanita / Dress / Tunik - DG 012 Murah,pakaian-wanita-dress-tunik-dg-012,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan SATEN, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/3-rng-033.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RNG 033,Rp 118.400,Rp 138.900,Rp 20.500,RNG 033,Baru
+Jual Dress / Atasan Kasual Wanita - RIS 046 Murah,dress-atasan-kasual-wanita-ris-046,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -591,6 +600,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 012 Murah,pakaian-wanita-dress-tunik-dg
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -613,7 +623,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 012 Murah,pakaian-wanita-dress-tunik-dg
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DG 012 dengan bahan SIFON ini dijamin awet.<br/>Kode : DG 012<br/>Warna : HITAM<br/>Bahan : SIFON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RIS 046 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan BABBY CANVAS.<br/>Kode : RIS 046<br/>Warna : CREAM<br/>Bahan : BABBY CANVAS<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -628,8 +638,8 @@ Jual Pakaian Wanita / Dress / Tunik - DG 012 Murah,pakaian-wanita-dress-tunik-dg
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan SIFON, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/591-dg-012.jpg,Pakaian Wanita / Dress / Tunik - DG 012,Rp 97.900,DG 012,Baru
-Jual Pakaian Wanita / Dress / Tunik - DC 010 Murah,pakaian-wanita-dress-tunik-dc-010,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan BABBY CANVAS, Ukuran S - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/4-ris-046.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RIS 046,Rp 135.400,Rp 158.900,Rp 23.500,RIS 046,Baru
+Jual Dress / Atasan Kasual Wanita - RNH 014 Murah,dress-atasan-kasual-wanita-rnh-014,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -654,6 +664,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 010 Murah,pakaian-wanita-dress-tunik-dc
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -676,7 +687,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 010 Murah,pakaian-wanita-dress-tunik-dc
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DC 010 dengan bahan COTTON ini dijamin awet.<br/>Kode : DC 010<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RNH 014 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan CANVAS.<br/>Kode : RNH 014<br/>Warna : BIRU<br/>Bahan : CANVAS<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -691,8 +702,8 @@ Jual Pakaian Wanita / Dress / Tunik - DC 010 Murah,pakaian-wanita-dress-tunik-dc
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/592-dc-010.jpg,Pakaian Wanita / Dress / Tunik - DC 010,Rp 106.400,DC 010,Baru
-Jual Pakaian Wanita / Dress / Tunik - DC 005 Murah,pakaian-wanita-dress-tunik-dc-005,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan CANVAS, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/5-rnh-014.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RNH 014,Rp 138.400,Rp 161.900,Rp 23.500,RNH 014,Baru
+Jual Dress / Atasan Kasual Wanita - RKA 002 Murah,dress-atasan-kasual-wanita-rka-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -717,6 +728,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 005 Murah,pakaian-wanita-dress-tunik-dc
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -739,7 +751,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 005 Murah,pakaian-wanita-dress-tunik-dc
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DC 005 dengan bahan COTTON ini dijamin awet.<br/>Kode : DC 005<br/>Warna : MARUN<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita - RKA 002 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : RKA 002<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -754,8 +766,8 @@ Jual Pakaian Wanita / Dress / Tunik - DC 005 Murah,pakaian-wanita-dress-tunik-dc
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna MARUN",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/593-dc-005.jpg,Pakaian Wanita / Dress / Tunik - DC 005,Rp 106.400,DC 005,Baru
-Jual Pakaian Wanita / Dress / Tunik - RG 022 Murah,pakaian-wanita-dress-tunik-rg-022,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/6-rka-002.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita - RKA 002,Rp 164.400,Rp 192.900,Rp 28.500,RKA 002,Baru
+Jual Dress / Atasan Kasual Wanita (Tanpa Legging) - RKA 011 Murah,dress-atasan-kasual-wanita-(tanpa-legging)-rka-011,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -780,6 +792,7 @@ Jual Pakaian Wanita / Dress / Tunik - RG 022 Murah,pakaian-wanita-dress-tunik-rg
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -802,7 +815,7 @@ Jual Pakaian Wanita / Dress / Tunik - RG 022 Murah,pakaian-wanita-dress-tunik-rg
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - RG 022 dengan bahan CANVAS ini dijamin awet.<br/>Kode : RG 022<br/>Warna : COKLAT<br/>Bahan : CANVAS<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita (Tanpa Legging) - RKA 011 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : RKA 011<br/>Warna : BIRU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -817,8 +830,8 @@ Jual Pakaian Wanita / Dress / Tunik - RG 022 Murah,pakaian-wanita-dress-tunik-rg
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan CANVAS, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/594-rg-022.jpg,Pakaian Wanita / Dress / Tunik - RG 022,Rp 143.900,RG 022,Baru
-Jual Pakaian Wanita / Dress / Tunik - DC 029 Murah,pakaian-wanita-dress-tunik-dc-029,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/13-rka-011.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita (Tanpa Legging) - RKA 011,Rp 157.400,Rp 184.900,Rp 27.500,RKA 011,Baru
+Jual Dress / Atasan Kasual Wanita (Tanpa Legging) - RDG 083 Murah,dress-atasan-kasual-wanita-(tanpa-legging)-rdg-083,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -843,6 +856,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 029 Murah,pakaian-wanita-dress-tunik-dc
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -865,7 +879,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 029 Murah,pakaian-wanita-dress-tunik-dc
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DC 029 dengan bahan DENIM ini dijamin awet.<br/>Kode : DC 029<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita (Tanpa Legging) - RDG 083 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan TERRY.<br/>Kode : RDG 083<br/>Warna : ABU ABU<br/>Bahan : TERRY<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -880,8 +894,8 @@ Jual Pakaian Wanita / Dress / Tunik - DC 029 Murah,pakaian-wanita-dress-tunik-dc
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/595-dc-029.jpg,Pakaian Wanita / Dress / Tunik - DC 029,Rp 120.400,DC 029,Baru
-Jual Pakaian Wanita / Dress / Tunik - DG 016 Murah,pakaian-wanita-dress-tunik-dg-016,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan TERRY, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/14-rdg-083.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita (Tanpa Legging) - RDG 083,Rp 116.900,Rp 136.900,Rp 20.000,RDG 083,Baru
+Jual Dress / Atasan Kasual Wanita (Tanpa Legging) - RRZ 010 Murah,dress-atasan-kasual-wanita-(tanpa-legging)-rrz-010,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -906,6 +920,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 016 Murah,pakaian-wanita-dress-tunik-dg
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -928,7 +943,7 @@ Jual Pakaian Wanita / Dress / Tunik - DG 016 Murah,pakaian-wanita-dress-tunik-dg
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DG 016 dengan bahan COTTON ini dijamin awet.<br/>Kode : DG 016<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Dress / Atasan Kasual Wanita (Tanpa Legging) - RRZ 010 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan DENIM.<br/>Kode : RRZ 010<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -943,8 +958,8 @@ Jual Pakaian Wanita / Dress / Tunik - DG 016 Murah,pakaian-wanita-dress-tunik-dg
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/596-dg-016.jpg,Pakaian Wanita / Dress / Tunik - DG 016,Rp 102.400,DG 016,Baru
-Jual Pakaian Wanita / Dress / Tunik - SF 004 Murah,pakaian-wanita-dress-tunik-sf-004,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/15-rrz-010.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita (Tanpa Legging) - RRZ 010,Rp 125.400,Rp 146.900,Rp 21.500,RRZ 010,Baru
+Jual Dress / Atasan Kasual Wanita (Tanpa Legging) - RMZ 001 Murah,dress-atasan-kasual-wanita-(tanpa-legging)-rmz-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -969,6 +984,7 @@ Jual Pakaian Wanita / Dress / Tunik - SF 004 Murah,pakaian-wanita-dress-tunik-sf
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -991,7 +1007,7 @@ Jual Pakaian Wanita / Dress / Tunik - SF 004 Murah,pakaian-wanita-dress-tunik-sf
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - SF 004 dengan bahan COTTON ini dijamin awet.<br/>Kode : SF 004<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
+         <p>Dress / Atasan Kasual Wanita (Tanpa Legging) - RMZ 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan COTTON.<br/>Kode : RMZ 001<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1006,8 +1022,8 @@ Jual Pakaian Wanita / Dress / Tunik - SF 004 Murah,pakaian-wanita-dress-tunik-sf
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/597-sf-004.jpg,Pakaian Wanita / Dress / Tunik - SF 004,Rp 151.900,SF 004,Baru
-Jual Pakaian Wanita / Dress / Tunik - DC 028 Murah,pakaian-wanita-dress-tunik-dc-028,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/16-rmz-001.jpg,/,/,/,/,/,Dress / Atasan Kasual Wanita (Tanpa Legging) - RMZ 001,Rp 174.900,Rp 204.900,Rp 30.000,RMZ 001,Baru
+Jual Manset Kasual Wanita - RPS 206 Murah,manset-kasual-wanita-rps-206,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1032,6 +1048,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 028 Murah,pakaian-wanita-dress-tunik-dc
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1054,7 +1071,7 @@ Jual Pakaian Wanita / Dress / Tunik - DC 028 Murah,pakaian-wanita-dress-tunik-dc
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DC 028 dengan bahan COTTON ini dijamin awet.<br/>Kode : DC 028<br/>Warna : ABU BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
+         <p>Manset Kasual Wanita - RPS 206 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan SPANDEX.<br/>Kode : RPS 206<br/>Warna : HITAM<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1069,8 +1086,8 @@ Jual Pakaian Wanita / Dress / Tunik - DC 028 Murah,pakaian-wanita-dress-tunik-dc
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna ABU BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/598-dc-028.jpg,Pakaian Wanita / Dress / Tunik - DC 028,Rp 132.400,DC 028,Baru
-Jual Pakaian Wanita / Dress / Tunik - SF 006 Murah,pakaian-wanita-dress-tunik-sf-006,"
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan SPANDEX, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/146-rps-206.jpg,/,/,/,/,/,Manset Kasual Wanita - RPS 206,Rp 91.900,Rp 107.900,Rp 16.000,RPS 206,Baru
+Jual Manset Kasual Wanita - RPS 207 Murah,manset-kasual-wanita-rps-207,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1095,6 +1112,7 @@ Jual Pakaian Wanita / Dress / Tunik - SF 006 Murah,pakaian-wanita-dress-tunik-sf
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1117,7 +1135,7 @@ Jual Pakaian Wanita / Dress / Tunik - SF 006 Murah,pakaian-wanita-dress-tunik-sf
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - SF 006 dengan bahan COTTON ini dijamin awet.<br/>Kode : SF 006<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
+         <p>Manset Kasual Wanita - RPS 207 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress ini terbuat dari bahan SPANDEX.<br/>Kode : RPS 207<br/>Warna : PUTIH<br/>Bahan : SPANDEX<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1132,1390 +1150,4 @@ Jual Pakaian Wanita / Dress / Tunik - SF 006 Murah,pakaian-wanita-dress-tunik-sf
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/599-sf-006.jpg,Pakaian Wanita / Dress / Tunik - SF 006,Rp 157.900,SF 006,Baru
-Jual Pakaian Wanita / Dress / Tunik - DC 026 Murah,pakaian-wanita-dress-tunik-dc-026,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - DC 026 dengan bahan COTTON ini dijamin awet.<br/>Kode : DC 026<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/600-dc-026.jpg,Pakaian Wanita / Dress / Tunik - DC 026,Rp 132.400,DC 026,Baru
-Jual Pakaian Wanita / Dress / Tunik - MT 019 Murah,pakaian-wanita-dress-tunik-mt-019,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - MT 019 dengan bahan KNIT ini dijamin awet.<br/>Kode : MT 019<br/>Warna : BIRU NAVY<br/>Bahan : KNIT<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan KNIT, Ukuran S - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/601-mt-019.jpg,Pakaian Wanita / Dress / Tunik - MT 019,Rp 134.900,MT 019,Baru
-Jual Pakaian Wanita / Dress / Tunik - RG 028 Murah,pakaian-wanita-dress-tunik-rg-028,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian Wanita / Dress / Tunik - RG 028 dengan bahan KNIT ini dijamin awet.<br/>Kode : RG 028<br/>Warna : ABU ABU<br/>Bahan : KNIT<br/>Ukuran : S - XL<br/>Berat : 0.41 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-23,html,dress,catenzo,dress,catenzo,"Dress Bahan KNIT, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/602-rg-028.jpg,Pakaian Wanita / Dress / Tunik - RG 028,Rp 147.400,RG 028,Baru
-Jual Pakaian / Dress Wanita - RNY 127 Murah,pakaian-dress-wanita-rny-127,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RNY 127 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNY 127<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/1-rny-127.jpg,Pakaian / Dress Wanita - RNY 127,Rp 128.400,RNY 127,Baru
-Jual Pakaian / Dress Wanita - RDD 040 Murah,pakaian-dress-wanita-rdd-040,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDD 040 dengan bahan DENIM ini dijamin awet.<br/>Kode : RDD 040<br/>Warna : UNGU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan DENIM, Ukuran S - XL, Warna UNGU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/2-rdd-040.jpg,Pakaian / Dress Wanita - RDD 040,Rp 122.400,RDD 040,Baru
-Jual Pakaian / Dress Wanita - RBV 048 Murah,pakaian-dress-wanita-rbv-048,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RBV 048 dengan bahan COTTON ini dijamin awet.<br/>Kode : RBV 048<br/>Warna : MOKA<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna MOKA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/3-rbv-048.jpg,Pakaian / Dress Wanita - RBV 048,Rp 102.900,RBV 048,Baru
-Jual Pakaian / Dress Wanita - RDG 019 Murah,pakaian-dress-wanita-rdg-019,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDG 019 dengan bahan HICON ini dijamin awet.<br/>Kode : RDG 019<br/>Warna : HIJAU<br/>Bahan : HICON<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan HICON, Ukuran All Size (1 Ukuran), Warna HIJAU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/4-rdg-019.jpg,Pakaian / Dress Wanita - RDG 019,Rp 96.400,RDG 019,Baru
-Jual Pakaian / Dress Wanita - RNG 033 Murah,pakaian-dress-wanita-rng-033,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RNG 033 dengan bahan SATEN ini dijamin awet.<br/>Kode : RNG 033<br/>Warna : COKLAT<br/>Bahan : SATEN<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan SATEN, Ukuran M - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/5-rng-033.jpg,Pakaian / Dress Wanita - RNG 033,Rp 118.400,RNG 033,Baru
-Jual Pakaian / Dress Wanita - RKA 002 Murah,pakaian-dress-wanita-rka-002,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RKA 002 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKA 002<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran M - XL, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/6-rka-002.jpg,Pakaian / Dress Wanita - RKA 002,Rp 164.400,RKA 002,Baru
-Jual Pakaian / Dress Wanita - RDS 040 Murah,pakaian-dress-wanita-rds-040,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDS 040 dengan bahan PARAGON ini dijamin awet.<br/>Kode : RDS 040<br/>Warna : CREAM<br/>Bahan : PARAGON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan PARAGON, Ukuran S - XL, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/7-rds-040.jpg,Pakaian / Dress Wanita - RDS 040,Rp 170.400,RDS 040,Baru
-Jual Pakaian / Dress Wanita - RNY 121 Murah,pakaian-dress-wanita-rny-121,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RNY 121 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RNY 121<br/>Warna : MERAH KOMBINASI<br/>Bahan : SPANDEX<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan SPANDEX, Ukuran M - XL, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/8-rny-121.jpg,Pakaian / Dress Wanita - RNY 121,Rp 160.900,RNY 121,Baru
-Jual Pakaian / Dress Wanita - RMZ 001 Murah,pakaian-dress-wanita-rmz-001,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RMZ 001 dengan bahan COTTON ini dijamin awet.<br/>Kode : RMZ 001<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran M - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/9-rmz-001.jpg,Pakaian / Dress Wanita - RMZ 001,Rp 174.900,RMZ 001,Baru
-Jual Pakaian / Dress Wanita - RKA 011 Murah,pakaian-dress-wanita-rka-011,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RKA 011 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKA 011<br/>Warna : BIRU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/10-rka-011.jpg,Pakaian / Dress Wanita - RKA 011,Rp 157.400,RKA 011,Baru
-Jual Pakaian / Dress Wanita - RKK 101 Murah,pakaian-dress-wanita-rkk-101,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RKK 101 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKK 101<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/11-rkk-101.jpg,Pakaian / Dress Wanita - RKK 101,Rp 142.400,RKK 101,Baru
-Jual Pakaian / Dress Wanita - RNY 128 Murah,pakaian-dress-wanita-rny-128,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RNY 128 dengan bahan COTTON ini dijamin awet.<br/>Kode : RNY 128<br/>Warna : MERAH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/12-rny-128.jpg,Pakaian / Dress Wanita - RNY 128,Rp 139.400,RNY 128,Baru
-Jual Pakaian / Dress Wanita - RIT 005 Murah,pakaian-dress-wanita-rit-005,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RIT 005 dengan bahan COTTON ini dijamin awet.<br/>Kode : RIT 005<br/>Warna : ABU TUA<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran M - XL, Warna ABU TUA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/13-rit-005.jpg,Pakaian / Dress Wanita - RIT 005,Rp 139.900,RIT 005,Baru
-Jual Pakaian / Dress Wanita - RIT 007 Murah,pakaian-dress-wanita-rit-007,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RIT 007 dengan bahan COTTON ini dijamin awet.<br/>Kode : RIT 007<br/>Warna : BIRU NAVY<br/>Bahan : COTTON<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran M - XL, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/14-rit-007.jpg,Pakaian / Dress Wanita - RIT 007,Rp 139.900,RIT 007,Baru
-Jual Pakaian / Dress Wanita - RDG 075 Murah,pakaian-dress-wanita-rdg-075,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDG 075 dengan bahan COTTON ini dijamin awet.<br/>Kode : RDG 075<br/>Warna : HITAM<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/15-rdg-075.jpg,Pakaian / Dress Wanita - RDG 075,Rp 215.400,RDG 075,Baru
-Jual Pakaian / Dress Wanita - RDG 083 Murah,pakaian-dress-wanita-rdg-083,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDG 083 dengan bahan TERRY ini dijamin awet.<br/>Kode : RDG 083<br/>Warna : ABU ABU<br/>Bahan : TERRY<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan TERRY, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/16-rdg-083.jpg,Pakaian / Dress Wanita - RDG 083,Rp 116.900,RDG 083,Baru
-Jual Pakaian / Dress Wanita - RKK 105 Murah,pakaian-dress-wanita-rkk-105,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RKK 105 dengan bahan COTTON ini dijamin awet.<br/>Kode : RKK 105<br/>Warna : MARUN<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/17-rkk-105.jpg,Pakaian / Dress Wanita - RKK 105,Rp 145.900,RKK 105,Baru
-Jual Pakaian / Dress Wanita - RDG 084 Murah,pakaian-dress-wanita-rdg-084,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RDG 084 dengan bahan COTTON ini dijamin awet.<br/>Kode : RDG 084<br/>Warna : MERAH<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan COTTON, Ukuran S - XL, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/18-rdg-084.jpg,Pakaian / Dress Wanita - RDG 084,Rp 123.900,RDG 084,Baru
-Jual Pakaian / Dress Wanita - RNH 004 Murah,pakaian-dress-wanita-rnh-004,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Pakaian / Dress Wanita - RNH 004 dengan bahan SPANDEX ini dijamin awet.<br/>Kode : RNH 004<br/>Warna : COKLAT<br/>Bahan : SPANDEX<br/>Ukuran : M - XL<br/>Berat : 0.6 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,dress,raindoz,dress,raindoz,"Dress Bahan SPANDEX, Ukuran M - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/19-rnh-004.jpg,Pakaian / Dress Wanita - RNH 004,Rp 178.900,RNH 004,Baru
+     </div><!--/category-tab-->",2017-10-17,html,dress,raindoz,dress,raindoz,"Dress Bahan SPANDEX, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/147-rps-207.jpg,/,/,/,/,/,Manset Kasual Wanita - RPS 207,Rp 91.900,Rp 107.900,Rp 16.000,RPS 207,Baru
